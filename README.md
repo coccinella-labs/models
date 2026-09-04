@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/models/main/.github/assets/thumbnail.png" alt="models" width="100%">
+</p>
+
 # gpt-2 training project
 
 train gpt-2 or gpt-neo models on the wikitext dataset using pytorch and transformers.
