@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basebin/models/main/.github/assets/thumbnail.png" alt="models" width="100%">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/models/main/.github/assets/thumbnail.png" alt="models" width="100%">
 </p>
 
 # gpt-2 training project
