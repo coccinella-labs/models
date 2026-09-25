@@ -7,7 +7,7 @@ name = "gpt2-training"
 version = "0.1.0"
 description = "GPT-2 model training on WikiText dataset"
 authors = [
-    {name = "Niladri Das"},
+    {name = "Coccinella Labs"},
 ]
 dependencies = [
     "torch>=2.0.0",
